@@ -1,0 +1,3 @@
+[submodule "my-spotify"]
+	path = my-spotify
+	url = https://github.com/DesignedByQ/my-spotify-docked.git
